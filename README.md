@@ -1,16 +1,20 @@
-## Hi there 👋
+# Henrique Zaratine Pereira
 
-<!--
-**hzaratine/hzaratine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Informática para Internet na ETEC Maria Cristina Medeiros. Desenvolvedor focado em projetos para web e sistemas cliente-servidor.
 
-Here are some ideas to get you started:
+## Tecnologias e Estudos
+* **Linguagens e Frameworks:** Node.js, Express, PHP, HTML, CSS, JavaScript
+* **Banco de Dados:** Modelagem e manipulação de dados
+* **Infraestrutura:** Computação em nuvem e Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositórios Principais
+* **API-local-forum:** Protótipo funcional de plataforma de comunicação (Node.js e Express)
+* **ETEC-Sistemas-Web-I:** Desenvolvimento back-end utilizando PHP
+
+## Estatísticas
+![Estatísticas do GitHub](https://vercel.app)
+![Linguagens mais usadas](https://vercel.app)
+
+## Contato
+* **LinkedIn:** ://linkedin.com
+* **E-mail:** seu.email@exemplo.com
