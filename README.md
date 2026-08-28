@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a598b86-7841-4fda-a66f-1bae5a3bc156" width="100%">
+  <img src="https://github.com/user-attachments/assets/2a598b86-7841-4fda-a66f-1bae5a3bc156" width="500">
 </p>
-
 
 # Henrique Zaratine Pereira
 
