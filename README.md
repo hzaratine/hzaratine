@@ -1,3 +1,4 @@
+<img width="300" height="300" alt="3d" src="https://github.com/user-attachments/assets/2a598b86-7841-4fda-a66f-1bae5a3bc156" />
 # Henrique Zaratine Pereira
 
 Estudante de Informática para Internet na ETEC Maria Cristina Medeiros. Desenvolvedor focado em projetos para web e sistemas cliente-servidor.
